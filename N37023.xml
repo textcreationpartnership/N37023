@@ -113,14 +113,14 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:048491_0000_10255340532B45B8"/>
-            <pb facs="tcp:048491_0001_10255341D7030D60"/>
+            <pb facs="unknown:048491_0000_10255340532B45B8"/>
+            <pb facs="unknown:048491_0001_10255341D7030D60"/>
             <p>
                <figure/>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:048491_0002_10255383212DA318"/>
+            <pb facs="unknown:048491_0002_10255383212DA318"/>
             <p>THE <hi>Jovial Songster:</hi> CONTAINING A VARIETY OF PATRIOTIC AND HUMOROUS SONGS. THE FOURTH EDITION, WITH ADDITIONS, [Copy Right Secured.]</p>
             <q>
                <l>Muſic, pureſt, nobleſt pleaſure,</l>
@@ -131,13 +131,13 @@
             <p>—NEW-YORK— <hi>PRINTED AND SOLD BY</hi> JOHN HARRISSON, no. 3 Peck-Slip. 1798.</p>
          </div>
          <div type="publishers_advertisement">
-            <pb facs="tcp:048491_0003_10255344AE06DE10"/>
+            <pb facs="unknown:048491_0003_10255344AE06DE10"/>
             <p>STATIONARY Of all kinds, For ſale at JOHN HARRISSON'S Book Store, no. 3 Peck Slip. Alſo a large and general aſſortment of BOOKS, conſiſting of NOVELS and ROMANCES, Hiſtory, Divinity, and Morality. A large collection of the neweſt SONG BOOKS, ALSO BLANK BOOKS of every deſcription</p>
          </div>
       </front>
       <body>
          <div type="songs">
-            <pb facs="tcp:048491_0004_10255385F889E468"/>
+            <pb facs="unknown:048491_0004_10255385F889E468"/>
             <head>THE JOVIAL SONGSTER.</head>
             <div type="song">
                <head>HARK! THE JOY-INSPIRING HORN.</head>
@@ -162,7 +162,7 @@
                   <l>And to the copſe for ſhelter makes,</l>
                   <l>Thre pants awhile for breath;</l>
                   <l>
-                     <pb n="4" facs="tcp:048491_0005_10255348DF007E30"/>
+                     <pb n="4" facs="unknown:048491_0005_10255348DF007E30"/>
 When now the noiſe alarms her ear,</l>
                   <l>Her haunts deſcry, her fate is near,</l>
                   <l>She ſees approaching death.</l>
@@ -200,7 +200,7 @@ When now the noiſe alarms her ear,</l>
                   <l>Now peeping,</l>
                   <l>The fox from the brake lifts his head:</l>
                   <l>
-                     <pb n="5" facs="tcp:048491_0006_1025538A30D8F588"/>
+                     <pb n="5" facs="unknown:048491_0006_1025538A30D8F588"/>
 Each away to his f<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap>d,</l>
@@ -241,7 +241,7 @@ Each away to his f<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      </gap> and my gun.</l>
                </lg>
                <lg>
-                  <pb n="6" facs="tcp:048491_0007_1025534A61AEC5B0"/>
+                  <pb n="6" facs="unknown:048491_0007_1025534A61AEC5B0"/>
                   <l>For exerciſe, air,</l>
                   <l>To the fields I repair,</l>
                   <l>With ſpirits unclouded and light,</l>
@@ -285,7 +285,7 @@ Each away to his f<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <l>With bluſhes adorning</l>
                   <l>The meadows and fields;</l>
                   <l>
-                     <pb n="7" facs="tcp:048491_0008_1025538D115A94C8"/>
+                     <pb n="7" facs="unknown:048491_0008_1025538D115A94C8"/>
 The merry merry merry horn</l>
                   <l>Calls come come come away,</l>
                   <l>Awake from your ſlumber,</l>
@@ -330,7 +330,7 @@ The merry merry merry horn</l>
                   <l>But a hunting, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="8" facs="tcp:048491_0009_1025534BE6A138A0"/>
+                  <pb n="8" facs="unknown:048491_0009_1025534BE6A138A0"/>
                   <l>Th' uncavern'd fox like lightning flies,</l>
                   <l>His cunning's all awake,</l>
                   <l>To gain the race he eager tries,</l>
@@ -375,7 +375,7 @@ The merry merry merry horn</l>
                   <l>But nature deſign'd, in love to mankind,</l>
                   <l>That different beauties ſhould move,</l>
                   <l>
-                     <pb n="9" facs="tcp:048491_0010_1025538FE6E38160"/>
+                     <pb n="9" facs="unknown:048491_0010_1025538FE6E38160"/>
 Still pleas'd to ordain, none ever ſhould reign</l>
                   <l>Sole monarch in empire of love.</l>
                   <l>Then lea<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -422,7 +422,7 @@ Still pleas'd to ordain, none ever ſhould reign</l>
                   <l>The wrong and the right,</l>
                   <l>Being ſet in their fight,</l>
                   <l>
-                     <pb n="10" facs="tcp:048491_0011_1025534ECC8012C0"/>
+                     <pb n="10" facs="unknown:048491_0011_1025534ECC8012C0"/>
 They're ſure to take hold of the wrong;</l>
                   <l>They'll cajole and they'll wimper,</l>
                   <l>They'll whine and they'll ſnivel,</l>
@@ -460,7 +460,7 @@ They're ſure to take hold of the wrong;</l>
                   <l>And then it kindled in a trice,</l>
                   <l>A flame that never dies.</l>
                   <l>
-                     <pb n="11" facs="tcp:048491_0012_102553916B373F68"/>
+                     <pb n="11" facs="unknown:048491_0012_102553916B373F68"/>
 Then take and try me, you ſhall find</l>
                   <l>That I've a heart that's true:</l>
                   <l>Of all the girls I ever ſaw,</l>
@@ -505,7 +505,7 @@ Then take and try me, you ſhall find</l>
                   <l>To numbers I'll ne'er be conſin'd.</l>
                </lg>
                <lg>
-                  <pb n="12" facs="tcp:048491_0013_102553544CA43C90"/>
+                  <pb n="12" facs="unknown:048491_0013_102553544CA43C90"/>
                   <l>Count the bees that on Hybla are playing;</l>
                   <l>Count the flow'rs that enamel the fields;</l>
                   <l>Count the flocks that in Tempe are ſtraying,</l>
@@ -555,7 +555,7 @@ Then take and try me, you ſhall find</l>
                </lg>
                <p>I love, &amp;c.</p>
                <lg>
-                  <pb n="13" facs="tcp:048491_0014_10255395B3FB1548"/>
+                  <pb n="13" facs="unknown:048491_0014_10255395B3FB1548"/>
                   <l>Young Molly of the dale</l>
                   <l>Makes a mere ſlave of Harry;</l>
                   <l>Becauſe, when they had toy'd and kiſs'd;</l>
@@ -597,7 +597,7 @@ Then take and try me, you ſhall find</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="14" facs="tcp:048491_0015_10255355CE1A0FC8"/>
+               <pb n="14" facs="unknown:048491_0015_10255355CE1A0FC8"/>
                <head>FAIR KITTY.</head>
                <lg>
                   <l>FAIR Kitty, beautiful and young,</l>
@@ -639,7 +639,7 @@ Then take and try me, you ſhall find</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="15" facs="tcp:048491_0016_102553989992EFA0"/>
+               <pb n="15" facs="unknown:048491_0016_102553989992EFA0"/>
                <head>FROM COLLEGE I CAME.</head>
                <lg>
                   <l>FROM college I came.</l>
@@ -685,7 +685,7 @@ Then take and try me, you ſhall find</l>
                   <l>AH! dear Margella! maid divine,</l>
                   <l>No more will I at fate repine,</l>
                   <l>
-                     <pb n="16" facs="tcp:048491_0017_102553575100EBA8"/>
+                     <pb n="16" facs="unknown:048491_0017_102553575100EBA8"/>
 If I this day behold thee mine,</l>
                   <l>For dearly do I love thee.</l>
                </lg>
@@ -732,7 +732,7 @@ If I this day behold thee mine,</l>
                   <l>But ſhe, like all her ſex, was coy,</l>
                   <l>And tho' I ſwore, would not comply;</l>
                   <l>
-                     <pb n="17" facs="tcp:048491_0018_1025539B6DAEB3C0"/>
+                     <pb n="17" facs="unknown:048491_0018_1025539B6DAEB3C0"/>
 Yet I perceiv'd ſhe met my flame,</l>
                   <l>But ſtill ſhe cry'd—O fye for ſhame,</l>
                </lg>
@@ -780,7 +780,7 @@ Yet I perceiv'd ſhe met my flame,</l>
                   <l>And drop'd upon the ground.</l>
                </lg>
                <lg>
-                  <pb n="18" facs="tcp:048491_0019_1025539CF0AD9028"/>
+                  <pb n="18" facs="unknown:048491_0019_1025539CF0AD9028"/>
                   <l>Enjoy, bleſt bee, enjoy thy fate,</l>
                   <l>Nor at thy fall repine;</l>
                   <l>Each god wou'd quit his bliſsful ſtate,</l>
@@ -827,7 +827,7 @@ Yet I perceiv'd ſhe met my flame,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="19" facs="tcp:048491_0020_102553E5759A4658"/>
+               <pb n="19" facs="unknown:048491_0020_102553E5759A4658"/>
                <head>WOMEN ARE NEVER WRONG.</head>
                <lg>
                   <l>THO' women, 'tis true, are but tender,</l>
@@ -870,7 +870,7 @@ Yet I perceiv'd ſhe met my flame,</l>
                   <l>Theſe are our cares; but if you're kind</l>
                   <l>We'll ſcorn the daſhing main,</l>
                   <l>
-                     <pb n="20" facs="tcp:048491_0021_102553A139C00308"/>
+                     <pb n="20" facs="unknown:048491_0021_102553A139C00308"/>
 The rocks, the billows, and the wind,</l>
                   <l>Till we return again.</l>
                   <l>COLUMBIA's glory reſts with you.</l>
@@ -913,7 +913,7 @@ The rocks, the billows, and the wind,</l>
                   <l>Could we with ink the ocean fill,</l>
                   <l>Was earth of parchment made,</l>
                   <l>
-                     <pb n="21" facs="tcp:048491_0022_102553EAFB68ADE0"/>
+                     <pb n="21" facs="unknown:048491_0022_102553EAFB68ADE0"/>
 Was ev'ry ſingle ſtick a quill;</l>
                   <l>Each man a ſcribe by trade, &amp;c.</l>
                   <l>To write the tricks of half the ſex</l>
@@ -958,7 +958,7 @@ Was ev'ry ſingle ſtick a quill;</l>
                   <l>At leaſt you ſhould wait for our offers</l>
                   <l>Nor ſnatch like old maids in deſpair;</l>
                   <l>
-                     <pb n="22" facs="tcp:048491_0023_102553A41C4117E0"/>
+                     <pb n="22" facs="unknown:048491_0023_102553A41C4117E0"/>
 If you've liv'd till theſe years without proffers,</l>
                   <l>Your ſighs are now loſt in the air.</l>
                </lg>
@@ -1000,7 +1000,7 @@ If you've liv'd till theſe years without proffers,</l>
                   <l>We both ſhall find more than our arms will contain.</l>
                </lg>
                <lg>
-                  <pb n="23" facs="tcp:048491_0024_102553EC826622C0"/>
+                  <pb n="23" facs="unknown:048491_0024_102553EC826622C0"/>
                   <l>I've oft overheard the ill-natur'd expreſſion;</l>
                   <l>That beauty ſo bulky muſt pall in poſſeſſion;</l>
                   <l>In his notion the critic is ſurely miſled,</l>
@@ -1041,7 +1041,7 @@ If you've liv'd till theſe years without proffers,</l>
                </lg>
                <p>Variety, &amp;c.</p>
                <lg>
-                  <pb n="24" facs="tcp:048491_0025_102553A59EFCEC20"/>
+                  <pb n="24" facs="unknown:048491_0025_102553A59EFCEC20"/>
                   <l>Not the fine regallia</l>
                   <l>Of eaſtern kings,</l>
                   <l>The poet ſings,</l>
@@ -1083,7 +1083,7 @@ If you've liv'd till theſe years without proffers,</l>
                   <l>There's the parſon who matches the young and the old,</l>
                   <l>Gives you brimſtone enough when you're match'd to a ſcold,</l>
                   <l>
-                     <pb n="25" facs="tcp:048491_0026_102553EE07EA8CE0"/>
+                     <pb n="25" facs="unknown:048491_0026_102553EE07EA8CE0"/>
 If your matches are made, as I fear they be,</l>
                   <l>You've met with your match before you met me.</l>
                </lg>
@@ -1123,7 +1123,7 @@ If your matches are made, as I fear they be,</l>
                   <l>My father lights by day.</l>
                </lg>
                <lg>
-                  <pb n="26" facs="tcp:048491_0027_102553A877301510"/>
+                  <pb n="26" facs="unknown:048491_0027_102553A877301510"/>
                   <l>But father's not the like of I,</l>
                   <l>For knowing life and fun,</l>
                   <l>For I ſtrange tricks and fancy ſpy,</l>
@@ -1167,7 +1167,7 @@ If your matches are made, as I fear they be,</l>
                   <l>Beat drums, play fifes, 'tis glory calls,</l>
                   <l>What arguſies who ſtands or falls,</l>
                   <l>
-                     <pb n="27" facs="tcp:048491_0028_102553F285C55B20"/>
+                     <pb n="27" facs="unknown:048491_0028_102553F285C55B20"/>
 Lord what ſhould one be ſorry for,</l>
                   <l>Life's but the fortune of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1218,7 +1218,7 @@ Lord what ſhould one be ſorry for,</l>
                   <l>Sir Solomon gave his lady a nudge,</l>
                   <l>Cries he, lady Simons there's vaſtly too much light,</l>
                   <l>
-                     <pb n="28" facs="tcp:048491_0029_102553ACB1B34FF8"/>
+                     <pb n="28" facs="unknown:048491_0029_102553ACB1B34FF8"/>
 Then Sir Solomon, ſays ſhe, to get up you cant grudge,</l>
                   <l>And blow out the ruſh light.</l>
                   <l>A little farthing, &amp;c.</l>
@@ -1258,7 +1258,7 @@ Then Sir Solomon, ſays ſhe, to get up you cant grudge,</l>
                   <l>Could blow out the ruſh light,</l>
                </lg>
                <lg>
-                  <pb n="29" facs="tcp:048491_0030_102553F56D387A20"/>
+                  <pb n="29" facs="unknown:048491_0030_102553F56D387A20"/>
                   <l>The watchman at laſt went by, crying one,</l>
                   <l>Here watchman, come up, then you we might on worſe light;</l>
                   <l>Then up came the watchman, the buſineſs was done,</l>
@@ -1299,7 +1299,7 @@ Then Sir Solomon, ſays ſhe, to get up you cant grudge,</l>
                   <l>But tho' forbid with thee to ſtay,</l>
                   <l>I bear thee in my heart;</l>
                   <l>
-                     <pb n="30" facs="tcp:048491_0031_102553AF9B4BA3F0"/>
+                     <pb n="30" facs="unknown:048491_0031_102553AF9B4BA3F0"/>
 Then let not Polly be concern'd,</l>
                   <l>For Hymen ſoon ſhall tell,</l>
                   <l>The ſailor's ſafe from war return'd,</l>
@@ -1346,7 +1346,7 @@ Then let not Polly be concern'd,</l>
                   <l>DAPPER-tit-tat-too is my natty name,</l>
                   <l>For roll or a trevally,</l>
                   <l>
-                     <pb n="31" facs="tcp:048491_0032_1024A7AC6E959920"/>
+                     <pb n="31" facs="unknown:048491_0032_1024A7AC6E959920"/>
 Among the girls loud ſounds my fame,</l>
                   <l>When I their quarters rally,</l>
                   <l>For with ſife and drum,</l>
@@ -1386,7 +1386,7 @@ Among the girls loud ſounds my fame,</l>
                   <l>Why, Sir, when ſafe and ſound,</l>
                   <l>Rounds I could fight the devil,</l>
                   <l>
-                     <pb n="32" facs="tcp:048491_0033_102553B11EF06130"/>
+                     <pb n="32" facs="unknown:048491_0033_102553B11EF06130"/>
 And with fife and drum;</l>
                   <l>Can ſmirking come,</l>
                   <l>And cock my hat,</l>
@@ -1427,7 +1427,7 @@ And with fife and drum;</l>
                   <l>Who fought and bled in Freedom's cauſe,</l>
                   <l>Who fought and bled in Freedom's cauſe,</l>
                   <l>
-                     <pb n="33" facs="tcp:048491_0034_102553F6EF1C8048"/>
+                     <pb n="33" facs="unknown:048491_0034_102553F6EF1C8048"/>
 And when the ſtorm of war was gone,</l>
                   <l>Enjoy'd the peace, your valor won.</l>
                   <l>Let INDEPENDENCE be our boaſt,</l>
@@ -1469,7 +1469,7 @@ And when the ſtorm of war was gone,</l>
                </lg>
                <p>Firm—united, &amp;c.</p>
                <lg>
-                  <pb n="34" facs="tcp:048491_0035_102553B3F5668070"/>
+                  <pb n="34" facs="unknown:048491_0035_102553B3F5668070"/>
                   <l>Behold the CHIEF who now commands,</l>
                   <l>Once more to ſave his country, ſtands</l>
                   <l>The rock on which the ſtorm will beat,</l>
@@ -1510,7 +1510,7 @@ And when the ſtorm of war was gone,</l>
                   <l>Ala militaire as ſodiers do;</l>
                   <l>The ſmock fac'd enſign nam'd his ſum,</l>
                   <l>
-                     <pb n="35" facs="tcp:048491_0036_102553FB24D7A400"/>
+                     <pb n="35" facs="unknown:048491_0036_102553FB24D7A400"/>
 The ſergeant promis'd, ſwore, and pray'd,</l>
                   <l>The trumpeter her praiſes bray'd;</l>
                   <l>To charm her loudly ſqueak'd the fife,</l>
@@ -1552,7 +1552,7 @@ The ſergeant promis'd, ſwore, and pray'd,</l>
                   <l>Sweet laſs of Richmond hill.</l>
                </lg>
                <lg>
-                  <pb n="36" facs="tcp:048491_0037_102553B85EB9BCE8"/>
+                  <pb n="36" facs="unknown:048491_0037_102553B85EB9BCE8"/>
                   <l>Ye zephyrs gay that fan the air,</l>
                   <l>And wonton through the grove,</l>
                   <l>O whiſper to my charming fair,</l>
@@ -1595,7 +1595,7 @@ The ſergeant promis'd, ſwore, and pray'd,</l>
                   <l>He caught my hand, and cry'd, dear girl</l>
                   <l>I fear I've made you wait,</l>
                   <l>
-                     <pb n="37" facs="tcp:048491_0038_102553FE012B4548"/>
+                     <pb n="37" facs="unknown:048491_0038_102553FE012B4548"/>
 But here's a ring, come let's to church,</l>
                   <l>The joys of love to taſte,</l>
                   <l>I left 'Squire, and laughing cry'd.</l>
@@ -1633,7 +1633,7 @@ But here's a ring, come let's to church,</l>
                </lg>
                <p>Ah! no, ah! no, &amp;c.</p>
                <lg>
-                  <pb n="38" facs="tcp:048491_0039_102553BB3954E140"/>
+                  <pb n="38" facs="unknown:048491_0039_102553BB3954E140"/>
                   <head>BOTH.</head>
                   <l>Then let the world jog as it will,</l>
                   <l>Let all our friends forſake us,</l>
@@ -1673,7 +1673,7 @@ But here's a ring, come let's to church,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="39" facs="tcp:048491_0040_10255400D6C3D5C8"/>
+               <pb n="39" facs="unknown:048491_0040_10255400D6C3D5C8"/>
                <head>CORPORAL CASEY.</head>
                <lg>
                   <l>WHEN I was at home I was merry and friſky,</l>
@@ -1712,7 +1712,7 @@ But here's a ring, come let's to church,</l>
                   <l>By carnage and grim death ſurrounded,</l>
                   <l>And the groans of dying men confounded;</l>
                   <l>
-                     <pb n="40" facs="tcp:048491_0041_102553BE1787F4D0"/>
+                     <pb n="40" facs="unknown:048491_0041_102553BE1787F4D0"/>
 If the warlike drum he hears,</l>
                   <l>And the ſhrill trumpet ſtrikes his ears,</l>
                   <l>Rous'd by the ſpirit-ſtirring tones,</l>
@@ -1758,7 +1758,7 @@ If the warlike drum he hears,</l>
                   <l>"By the mark—Seven!"</l>
                </lg>
                <lg>
-                  <pb n="41" facs="tcp:048491_0042_10255403C5F91D20"/>
+                  <pb n="41" facs="unknown:048491_0042_10255403C5F91D20"/>
                   <l>And as the much-lov'd ſhore we're near;</l>
                   <l>With tranſport we behold the roof,</l>
                   <l>Where dwelt a friend or partner dear,</l>
@@ -1798,7 +1798,7 @@ If the warlike drum he hears,</l>
                   <l>Thus whatſoever courſe we bend,</l>
                   <l>We lead a jovial life,</l>
                   <l>
-                     <pb n="42" facs="tcp:048491_0043_102553C1281955C8"/>
+                     <pb n="42" facs="unknown:048491_0043_102553C1281955C8"/>
 At every meſs we find a friend,</l>
                   <l>At every port a wife.</l>
                </lg>
@@ -1841,7 +1841,7 @@ At every meſs we find a friend,</l>
                   <l>Johnny's ſo long at the fair!</l>
                   <l>He promis'd to bring me a baſket of poſies,</l>
                   <l>
-                     <pb n="43" facs="tcp:048491_0044_10255405470C9890"/>
+                     <pb n="43" facs="unknown:048491_0044_10255405470C9890"/>
 A garland of lillies, a garland of roſes,</l>
                   <l>A little ſtraw hat ſet off whith blue ribbons,</l>
                   <l>To tie up my bonny brown hair.</l>
@@ -1878,7 +1878,7 @@ A garland of lillies, a garland of roſes,</l>
                   <l>By ſcent and by view, cheat the long tedious way:</l>
                   <l>When alike born for joys of the field and the courſe,</l>
                   <l>
-                     <pb n="44" facs="tcp:048491_0045_102553C2B4B9F878"/>
+                     <pb n="44" facs="unknown:048491_0045_102553C2B4B9F878"/>
 Always ſure to come through a flaunch and fleet horſe;</l>
                   <l>And when fairly run down the fox yields up his breath,</l>
                   <l>The high mettled racer is in at the death.</l>
@@ -1915,7 +1915,7 @@ Always ſure to come through a flaunch and fleet horſe;</l>
                </lg>
             </div>
             <div type="note">
-               <pb n="45" facs="tcp:048491_0046_1025540971BC9310"/>
+               <pb n="45" facs="unknown:048491_0046_1025540971BC9310"/>
                <p>The two following Songs are ſung in the "HIGHLAND REEL."</p>
             </div>
             <div type="song">
@@ -1960,7 +1960,7 @@ Always ſure to come through a flaunch and fleet horſe;</l>
                <p>I'm a chickabiddy, &amp;c.</p>
             </div>
             <div type="song">
-               <pb n="46" facs="tcp:048491_0047_102553C86C5BE560"/>
+               <pb n="46" facs="unknown:048491_0047_102553C86C5BE560"/>
                <head>WHEN I'VE MONEY I AM MERRY.</head>
                <lg>
                   <l>WHEN I've money I am merry,</l>
@@ -2001,7 +2001,7 @@ Always ſure to come through a flaunch and fleet horſe;</l>
                   <l>ON Afric's wide plains where lions now roaring,</l>
                   <l>With freedom ſtalk forth, the vaſt deſart exploring,</l>
                   <l>
-                     <pb n="47" facs="tcp:048491_0048_1024A7A79FEC35F0"/>
+                     <pb n="47" facs="unknown:048491_0048_1024A7A79FEC35F0"/>
 I was dragg'd from my hut, and enchain'd as a ſlave,</l>
                   <l>In a dark floating dungeon upon the ſalt wave.</l>
                   <l>Spare a fialfpeuny, ſpare a halfpenny!</l>
@@ -2041,7 +2041,7 @@ I was dragg'd from my hut, and enchain'd as a ſlave,</l>
                </lg>
                <p>Spare a halfpenny, &amp;c.</p>
                <lg>
-                  <pb n="48" facs="tcp:048491_0049_102553C9EDB7ACA0"/>
+                  <pb n="48" facs="unknown:048491_0049_102553C9EDB7ACA0"/>
                   <l>But of mind foul and fair, when the judge and ponderer</l>
                   <l>Shall reſtore light and reſt to the, blind and wand<g ref="char:EOLhyphen"/>erer,</l>
                   <l>The European's deep dye may outrival the ſloe,</l>
@@ -2073,7 +2073,7 @@ I was dragg'd from my hut, and enchain'd as a ſlave,</l>
                   <l>And ſwig with an air his allowance of grog;</l>
                </lg>
                <lg>
-                  <pb n="49" facs="tcp:048491_0050_1025540DCF212758"/>
+                  <pb n="49" facs="unknown:048491_0050_1025540DCF212758"/>
                   <l>Long ſide of a Don, in the Terrible frigate,</l>
                   <l>As yard arm and yard arm we lay off the ſhore,</l>
                   <l>In and out whiſtling Tom did ſo caper and jig it,</l>
@@ -2105,7 +2105,7 @@ I was dragg'd from my hut, and enchain'd as a ſlave,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="50" facs="tcp:048491_0051_102553CB6FA547E8"/>
+               <pb n="50" facs="unknown:048491_0051_102553CB6FA547E8"/>
                <head>LA CARMAGNOLE.</head>
                <lg>
                   <l>LOUD thund'ring cannons rend the air,</l>
@@ -2149,7 +2149,7 @@ I was dragg'd from my hut, and enchain'd as a ſlave,</l>
                <p>Dance oh the Carmagnole, &amp;c.</p>
             </div>
             <div type="song">
-               <pb n="51" facs="tcp:048491_0052_10255410A3BBB098"/>
+               <pb n="51" facs="unknown:048491_0052_10255410A3BBB098"/>
                <head>TRIUMPH OF LIBERTY.</head>
                <p>Sung at a meeting of the Friends of the People in Edin<g ref="char:EOLhyphen"/>burgh, (Scotland)</p>
                <lg>
@@ -2187,7 +2187,7 @@ I was dragg'd from my hut, and enchain'd as a ſlave,</l>
                </lg>
                <p>But with heart, &amp;c.</p>
                <lg>
-                  <pb n="52" facs="tcp:048491_0053_102553CE724C9640"/>
+                  <pb n="52" facs="unknown:048491_0053_102553CE724C9640"/>
                   <l>Then to Freedom preſs forward, like men who are wiſe,</l>
                   <l>And accompany France out of bondage to riſe—</l>
                   <l>Like America's world; let us with them agree,</l>
@@ -2228,7 +2228,7 @@ I was dragg'd from my hut, and enchain'd as a ſlave,</l>
                   <l>Good Heav'ns! and would a foreign band</l>
                   <l>Ordain for us domeſtic laws?</l>
                   <l>
-                     <pb n="53" facs="tcp:048491_0054_10255414D354F980"/>
+                     <pb n="53" facs="unknown:048491_0054_10255414D354F980"/>
 Would menial foes, with ſtern command.</l>
                   <l>Abuſe our heroes and our cauſe!</l>
                   <l>Great GOD! muſt we with fetter'd arms</l>
@@ -2269,7 +2269,7 @@ Would menial foes, with ſtern command.</l>
                   <l>Where thy triumphant ſtandard flies,</l>
                   <l>May bright plum'd victory repoſe,</l>
                   <l>
-                     <pb n="54" facs="tcp:048491_0055_102553D429C7B1A8"/>
+                     <pb n="54" facs="unknown:048491_0055_102553D429C7B1A8"/>
 May thy relentleſs dying foes,</l>
                   <l>Behold thy infants glories riſe.</l>
                </lg>
@@ -2314,7 +2314,7 @@ May thy relentleſs dying foes,</l>
                   <l>Poor vaſſals, who crawl by the Viſtula's ſtream,</l>
                   <l>Hear, hear the glad call and obey!</l>
                   <l>
-                     <pb n="55" facs="tcp:048491_0056_10255417AC6C5468"/>
+                     <pb n="55" facs="unknown:048491_0056_10255417AC6C5468"/>
 Riſe, nations! who worſhip the ſun's facred beams.</l>
                   <l>And drive your Pizarro's away.</l>
                </lg>
@@ -2359,7 +2359,7 @@ Riſe, nations! who worſhip the ſun's facred beams.</l>
                   <l>To quench fair Gallia's fire,</l>
                   <l>Still ſhall they fail:</l>
                   <l>
-                     <pb n="56" facs="tcp:048491_0057_102553D5AD78BB58"/>
+                     <pb n="56" facs="unknown:048491_0057_102553D5AD78BB58"/>
 Tho traitors ronnd her riſe,</l>
                   <l>Leagu'd with her enemies,</l>
                   <l>To war each patriot flies,</l>
@@ -2403,7 +2403,7 @@ Tho traitors ronnd her riſe,</l>
                   <l>Who'll buy Primroſes, who'll buy, who'll buy.</l>
                </lg>
                <lg>
-                  <pb n="57" facs="tcp:048491_0058_1025541A89D1B3D0"/>
+                  <pb n="57" facs="unknown:048491_0058_1025541A89D1B3D0"/>
                   <l>Friends and parents I've none. I'm look'd on with ſcorn,</l>
                   <l>Much better <gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -2449,7 +2449,7 @@ Tho traitors ronnd her riſe,</l>
                   <l>He choſe a ſoldier's life to wed,</l>
                   <l>So ſocial, gay and free.</l>
                   <l>
-                     <pb n="58" facs="tcp:048491_0059_102553D731165090"/>
+                     <pb n="58" facs="unknown:048491_0059_102553D731165090"/>
 Yet tho the laſſes love him well,</l>
                   <l>And often try to rally,</l>
                   <l>None pleaſes him like her who cries</l>
@@ -2493,7 +2493,7 @@ Yet tho the laſſes love him well,</l>
                </lg>
                <p>Aſſert the hallow'd, &amp;c.</p>
                <lg>
-                  <pb n="59" facs="tcp:048491_0060_1025541D5FD43D38"/>
+                  <pb n="59" facs="unknown:048491_0060_1025541D5FD43D38"/>
                   <l>We turn indignant from each cauſe</l>
                   <l>Of man's diſmay; from partial laws,</l>
                   <l>From kings who vainly ſeek by flight,</l>
@@ -2540,7 +2540,7 @@ Yet tho the laſſes love him well,</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="60" facs="tcp:048491_0061_102553DB63D91408"/>
+               <pb n="60" facs="unknown:048491_0061_102553DB63D91408"/>
                <head>FOUR-AND-TWENTY FIDLERS.</head>
                <head type="sub">[A COMIC MEDLEY]</head>
                <lg>
@@ -2583,7 +2583,7 @@ Yet tho the laſſes love him well,</l>
                   <l>Puſh carte and tirce, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="61" facs="tcp:048491_0062_1025541EEB093E10"/>
+                  <pb n="61" facs="unknown:048491_0062_1025541EEB093E10"/>
                   <l>Four and twenty parſons all in a row,</l>
                   <l>Four and twenty parſons, &amp;c.</l>
                   <l>There was L—d have mercy upon us,</l>
@@ -2613,7 +2613,7 @@ Yet tho the laſſes love him well,</l>
                   <l>Four and twenty dutchmen, &amp;c.</l>
                </lg>
                <p>There were Americanos, Spaniorum, Amſterdam, Rotterdam, and d—nation ſeize them altoge<g ref="char:EOLhyphen"/>ther: Abram he begat Iſaac, and Iſaac begat Jacob, and Jacob open'd his generation box— With long wigs, toupees frizee, frize, powder and pomatum, two ruffles and never a ſhirt,
-<pb n="62" facs="tcp:048491_0063_102553DE3AE25B28"/>d—'d hard times, walk in your honors, and ſhave for a penny—One caught a louſe, another let him looſe, d—n his eyes, ſays another, knock him down with the gooſe—L—d have mercy upon us—d—n him kick him down ſtairs—Puſh carte and tierce, down with his heels and cut him acroſs—Coblers and ſtop awls, ſtop awls and coblers—Tantarararo—I rub a dub, O rub a dub—And fiddle faddle fid<g ref="char:EOLhyphen"/>dle, and double demi ſemi quibble down below,</p>
+<pb n="62" facs="unknown:048491_0063_102553DE3AE25B28"/>d—'d hard times, walk in your honors, and ſhave for a penny—One caught a louſe, another let him looſe, d—n his eyes, ſays another, knock him down with the gooſe—L—d have mercy upon us—d—n him kick him down ſtairs—Puſh carte and tierce, down with his heels and cut him acroſs—Coblers and ſtop awls, ſtop awls and coblers—Tantarararo—I rub a dub, O rub a dub—And fiddle faddle fid<g ref="char:EOLhyphen"/>dle, and double demi ſemi quibble down below,</p>
                <lg>
                   <l>This is my lady's birth day,</l>
                   <l>Therefore we will keep holiday,</l>
@@ -2643,7 +2643,7 @@ Yet tho the laſſes love him well,</l>
                   <l>A wolf that watch'd with greedy eyes.</l>
                   <l>Ruſh'd forth and ſeiz'd the tender prize;</l>
                   <l>
-                     <pb n="63" facs="tcp:048491_0064_1025542477214030"/>
+                     <pb n="63" facs="unknown:048491_0064_1025542477214030"/>
 The ſhepherd ſaw and rais'd a ſtone,</l>
                   <l>So round, ſo large, I vow,</l>
                   <l>'Twas like the cake that Nelly laid,</l>
@@ -2686,7 +2686,7 @@ The ſhepherd ſaw and rais'd a ſtone,</l>
                   <l>I ſought the fields of barley;</l>
                </lg>
                <lg>
-                  <pb n="64" facs="tcp:048491_0065_102553E114C66F88"/>
+                  <pb n="64" facs="unknown:048491_0065_102553E114C66F88"/>
                   <l>And ſtrive to win from me away,</l>
                   <l>The heart of winſome Charley;</l>
                   <l>But ah! how vain, they canna gain</l>
@@ -2730,7 +2730,7 @@ The ſhepherd ſaw and rais'd a ſtone,</l>
                   <l>Will hail me at returning back,</l>
                   <l>So let the billows roar.</l>
                   <l>
-                     <pb n="65" facs="tcp:048491_0066_10255425F8E2CE20"/>
+                     <pb n="65" facs="unknown:048491_0066_10255425F8E2CE20"/>
 When bending o'er the rocky yard,</l>
                   <l>While ſeas in mountains riſe,</l>
                   <l>He takes a ſpell however hard,</l>
@@ -2769,7 +2769,7 @@ When bending o'er the rocky yard,</l>
                   <l>With joy and delight the fleet hare we purſue,</l>
                   <l>What muſic can equal the hounds in a views;</l>
                   <l>
-                     <pb n="66" facs="tcp:048491_0067_102553E3EBC3B470"/>
+                     <pb n="66" facs="unknown:048491_0067_102553E3EBC3B470"/>
 When ſhouts and rejoicings then rended the air,</l>
                   <l>With the cry of the hounds at the death of the hare.</l>
                </lg>
@@ -2809,7 +2809,7 @@ When ſhouts and rejoicings then rended the air,</l>
                   <l>How dare you keep teazing and ſqeezing me ſo.</l>
                </lg>
                <lg>
-                  <pb n="67" facs="tcp:048491_0068_10255427802A9658"/>
+                  <pb n="67" facs="unknown:048491_0068_10255427802A9658"/>
                   <l>Coquetting's now o'er, and ſettled for life,</l>
                   <l>Each feeling is fairly confeſs'd,</l>
                   <l>Attach'd to the duties of parent and wife,</l>
@@ -2850,7 +2850,7 @@ When ſhouts and rejoicings then rended the air,</l>
                   <l>So to London I came, and I thought it ſo pretty,</l>
                   <l>To ſee the folks crowding along in the ſtreet,</l>
                   <l>
-                     <pb n="68" facs="tcp:048491_0069_102554F64ECB6E08"/>
+                     <pb n="68" facs="unknown:048491_0069_102554F64ECB6E08"/>
 Where a body may walk from the ſtrand to the city,</l>
                   <l>And run up againſt ev'ry ſoul that you meet;</l>
                   <l>And then there's the gentry ſo nate and ſo nimble,</l>
@@ -2889,7 +2889,7 @@ Where a body may walk from the ſtrand to the city,</l>
                   <l>For how did I know but they might be ſo kind, ſir,</l>
                   <l>As to ſend home O'Whack, with his head in his mouth.</l>
                   <l>
-                     <pb n="69" facs="tcp:048491_0070_1025542EA532DF78"/>
+                     <pb n="69" facs="unknown:048491_0070_1025542EA532DF78"/>
 And to London return'd, I was pleas'd d'ye ſee, ſir,</l>
                   <l>To think from thoſe blood hounds I ſafe had got back,</l>
                   <l>For if the had happen'd to Guillotine me, ſir,</l>
@@ -2928,7 +2928,7 @@ And to London return'd, I was pleas'd d'ye ſee, ſir,</l>
                   <l>Wi' joy I leave my father's cot,</l>
                   <l>Wi' ilka' ſport of glen or green,</l>
                   <l>
-                     <pb n="70" facs="tcp:048491_0071_102554302714DE18"/>
+                     <pb n="70" facs="unknown:048491_0071_102554302714DE18"/>
 Well pleas'd to ſhare the humble lot</l>
                   <l>Of bonny Jim of Aberdeen.</l>
                </lg>
@@ -2976,7 +2976,7 @@ Well pleas'd to ſhare the humble lot</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="71" facs="tcp:048491_0072_102554345479C688"/>
+               <pb n="71" facs="unknown:048491_0072_102554345479C688"/>
                <head>WOMAN.</head>
                <head type="sub">Sung in the Bagatelle of the "Lock and Key."</head>
                <l>A WOMAN is like to—but ſtay—</l>
@@ -3016,7 +3016,7 @@ Well pleas'd to ſhare the humble lot</l>
                <l>In truth, ſhe's to me,</l>
                <l>Like the wind, like the ſea,</l>
                <l>
-                  <pb n="72" facs="tcp:048491_0073_1025543728010B08"/>
+                  <pb n="72" facs="unknown:048491_0073_1025543728010B08"/>
 Whoſe raging will hearken to no man;</l>
                <l>Like a mill,</l>
                <l>Like a pill,</l>
@@ -3055,7 +3055,7 @@ Whoſe raging will hearken to no man;</l>
                   <l>He'll cheerful go where duty calls,</l>
                   <l>And brave all ills but ne'er repine.</l>
                   <l>
-                     <pb n="73" facs="tcp:048491_0074_10255438A9F0A608"/>
+                     <pb n="73" facs="unknown:048491_0074_10255438A9F0A608"/>
 Ned lov'd ſincere his charming Kitty.</l>
                   <l>She ſaw with tears her ſoldier go;</l>
                   <l>She pray'd kind heav'n to led her pity,</l>
@@ -3091,7 +3091,7 @@ Ned lov'd ſincere his charming Kitty.</l>
                   <l>Good ſenſe I muſt find,</l>
                   <l>In the youth to my mind,</l>
                   <l>
-                     <pb n="74" facs="tcp:048491_0075_1025543E29761AF0"/>
+                     <pb n="74" facs="unknown:048491_0075_1025543E29761AF0"/>
 Not a fop or a coxcomb can e'er touch my heart;</l>
                   <l>No, no—he muſt be</l>
                   <l>Good temper'd and free—</l>
@@ -3135,7 +3135,7 @@ Not a fop or a coxcomb can e'er touch my heart;</l>
                   <l>That my father was kind and my mother was ten<g ref="char:EOLhyphen"/>der,</l>
                   <l>By my ſhoul I've more reaſons than one to re<g ref="char:EOLhyphen"/>member;</l>
                   <l>
-                     <pb n="75" facs="tcp:048491_0076_1025543FCEC15418"/>
+                     <pb n="75" facs="unknown:048491_0076_1025543FCEC15418"/>
 For to ſharpen my ſtomach, and brighten my wit, ſir,</l>
                   <l>Sure they left me to live upon what I could get, ſir,</l>
                   <l>Och! rub-a-dub, &amp;c.</l>
@@ -3180,7 +3180,7 @@ For to ſharpen my ſtomach, and brighten my wit, ſir,</l>
                   <l>Mind, huſſey, what you do!</l>
                </lg>
                <lg>
-                  <pb n="76" facs="tcp:048491_0077_10255442A78EC520"/>
+                  <pb n="76" facs="unknown:048491_0077_10255442A78EC520"/>
                   <l>To Damon, gayeſt of the green,</l>
                   <l>I gave my youthful hand,</l>
                   <l>His blooming face and comely mein</l>
@@ -3204,11 +3204,11 @@ For to ſharpen my ſtomach, and brighten my wit, ſir,</l>
             <div type="song">
                <head>THE DRUNKEN COBLER.</head>
                <p>SO, ſafe arriv'd at laſt; thanks to a ſtrong brain and a good underſtanding;—yes, pox, on to dogs! they thought to have maſtered me by plying this leathern throat of mine with as much liquor, as though I had been an Alderman at a city feaſt; but honeſt Criſpin of Cripplegate bit 'em, and came away with his budget full, and as ſober as ever I'd wiſh to be. Betty, Betty, bring me a pot of half and half, but be ſure don't mix it.—Let's ſee, what have we got here? —Confound the backs of theſe chairs! they're always behind.—Hum—what a d—mn'd
-<pb n="77" facs="tcp:048491_0078_102554442BB31688"/>candle's this, one can hardly extinguiſh the Argus from the Daily Advertiſer only by its crowing:—Hah! (reading) <q>Commercial Ad<g ref="char:EOLhyphen"/>vertiſer —It is ſaid that the Doctor Banks and Mr Sal-a-man-der, will, by command of her majeſty, undertake a voyage round,—hum— the bum dreſs of the preſent month,</q> ah! and <q>orders are received at the victualing-office ac<g ref="char:EOLhyphen"/>cordingly, for thirty-ſix months proviſions.</q>
+<pb n="77" facs="unknown:048491_0078_102554442BB31688"/>candle's this, one can hardly extinguiſh the Argus from the Daily Advertiſer only by its crowing:—Hah! (reading) <q>Commercial Ad<g ref="char:EOLhyphen"/>vertiſer —It is ſaid that the Doctor Banks and Mr Sal-a-man-der, will, by command of her majeſty, undertake a voyage round,—hum— the bum dreſs of the preſent month,</q> ah! and <q>orders are received at the victualing-office ac<g ref="char:EOLhyphen"/>cordingly, for thirty-ſix months proviſions.</q>
                   <q>—Hum—we hear from Caliſle, that as a great perſonage was going in his carriage to Windſor, he fell aſleep with the candle burning in his hand, and ſet fire to the bed clothes:</q>—Aye, that might happen through the careleſſneſs of the driver. So, <q>Whitehaven,—Yeſterday arrived from Philadelphia, with diſpatches on board— the moſt violent ſtorm of thunder and light<g ref="char:EOLhyphen"/>ning ever remembered:</q> Pſhaw! that's noth<g ref="char:EOLhyphen"/>ing but a bam upon the miniſtry. <q>Yeſterday morning about three o'clock this afternoon, a fire broke out in an empty houſe, and entirely conſumated all the furniture; an elderly mid<g ref="char:EOLhyphen"/>dle aged woman, coming by at the ſame time, fell into a cinder-ſieve and was drowned. Sat<g ref="char:EOLhyphen"/>urday morning about four o'clock in the after<g ref="char:EOLhyphen"/>noon, a woman was committed to Bridewell, for barbarouſly ſcraping her baſtard child to death with oyſter ſhells;</q> firſt murder of the kind I ever heard of.— <q>Domeſtic news. Au<g ref="char:EOLhyphen"/>guſt the 34th.—Yeſterday a woman was ſafely delivered of a fine boy with a wooden leg.</q> Oh! this is all d—d lies, this can never be true. (Lights his pipe)—I went to ſee a friend of mine <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>'other day; he's a coachman in a gentleman's fa<g ref="char:EOLhyphen"/>mily,
-<pb n="78" facs="tcp:048491_0079_1025544857F8CF70"/>and he aſked me to go to the play with him: Plays, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="78" facs="unknown:048491_0079_1025544857F8CF70"/>and he aſked me to go to the play with him: Plays, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ys I, why what play is it? "Why, (ſays he) tis King Hamlet and the Prince of Dunkirk." King Hamlet and the Prince of Dunkirk, ſays I, that can never be; for I have got all the Roman emperors <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -3223,7 +3223,7 @@ For to ſharpen my ſtomach, and brighten my wit, ſir,</l>
       </body>
       <back>
          <div type="toasts">
-            <pb n="79" facs="tcp:048491_0080_1025544B2F62D818"/>
+            <pb n="79" facs="unknown:048491_0080_1025544B2F62D818"/>
             <head>TOASTS AND SENTIMENTS.</head>
             <p>A ſpeedy exportation of all the enemies of Ame<g ref="char:EOLhyphen"/>rica without a draw b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -3247,7 +3247,7 @@ For to ſharpen my ſtomach, and brighten my wit, ſir,</l>
             <p>Kiſſes to thoſe who mean not to hurt by them.</p>
          </div>
          <div type="index">
-            <pb n="80" facs="tcp:048491_0081_1025544E0ADBB960"/>
+            <pb n="80" facs="unknown:048491_0081_1025544E0ADBB960"/>
             <head>CONTENTS.</head>
             <list>
                <item>ASK if you damaſk roſe is ſweet 9</item>
@@ -3286,7 +3286,7 @@ For to ſharpen my ſtomach, and brighten my wit, ſir,</l>
                <item>Four-and-twenty fidlers all in a row 60</item>
                <item>God lave the Rights of Man 55</item>
                <item>
-                  <pb n="81" facs="tcp:048491_0082_10255450E89E02A0"/>
+                  <pb n="81" facs="unknown:048491_0082_10255450E89E02A0"/>
 Hark! hark! the jay-inſpiring horn 3</item>
                <item>Hail Columbia! happy laud 32</item>
                <item>In purſuit of ſome lambs from my flocks 18</item>
@@ -3331,7 +3331,7 @@ Hark! hark! the jay-inſpiring horn 3</item>
                <item>The trumpet of Liberty ſounds thro the world 54</item>
                <item>This morning Aurora peep'd over the hills 65</item>
                <item>
-                  <pb n="82" facs="tcp:048491_0083_102554526A782D58"/>
+                  <pb n="82" facs="unknown:048491_0083_102554526A782D58"/>
 The <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>aneful lav'rocks cheer the grove 69</item>
